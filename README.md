@@ -26,8 +26,10 @@
 - 수동 운영이 아닌 코드 기반의 재현 가능 환경 구성
 - 실시간 모니터링 + 알림으로 운영 안정성 강화
 
-<img width="560" height="300" alt="image" src="https://github.com/user-attachments/assets/6c078511-f9c3-4522-a34b-7e51e1fb531e" />
+
 
 <img width="574" height="300" alt="image" src="https://github.com/user-attachments/assets/9a89be64-3846-4935-8c6a-32d81a2a78c0" />
+<img width="560" height="300" alt="image" src="https://github.com/user-attachments/assets/6c078511-f9c3-4522-a34b-7e51e1fb531e" />
+<img width="1158" height="331" alt="image" src="https://github.com/user-attachments/assets/ea7679c9-e3da-4384-aef9-66e4aa476e15" />
 
-<img width="1134" height="330" alt="image" src="https://github.com/user-attachments/assets/99a69cab-5601-41e3-8c14-3817a2d8501f" />
+
