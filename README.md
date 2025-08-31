@@ -1,6 +1,6 @@
 <img width="1154" height="619" alt="image" src="https://github.com/user-attachments/assets/a1d4fe92-64b3-4321-8776-7b5661e55dda" />
 
-[프로젝트명] Terraform + E-K Stack 기반 로그 수집 및 이상 탐지 시스템 구축
+[프로젝트명] Terraform + E-K Stack 기반 로그 수집 및 이상 탐지 시스템 구축(AWS 인프라를 Terraform으로 IaC 구현)
 
 [수행 기간] 2025.07.21 ~ 2025.07.31 (총 10일 / 실작업일수 7일)
 
