@@ -26,4 +26,5 @@
 - 수동 운영이 아닌 코드 기반의 재현 가능 환경 구성
 - 실시간 모니터링 + 알림으로 운영 안정성 강화
 
+<img width="560" height="300" alt="image" src="https://github.com/user-attachments/assets/6c078511-f9c3-4522-a34b-7e51e1fb531e" />
 
